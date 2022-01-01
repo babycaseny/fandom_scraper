@@ -7,8 +7,8 @@ import ssl
 from tqdm import tqdm
 
 # change these variables to change the fandom instance & character category/ies
-FANDOM_SITE = 'coronationstreet'
-CATEGORY = 'Coronation_Street_characters'
+FANDOM_SITE = 'babyish'
+CATEGORY = 'Babyish encyclopedia'
 CATEGORIES = [CATEGORY]
 
 JSON_FILE = f"projects/{FANDOM_SITE}.json"
